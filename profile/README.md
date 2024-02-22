@@ -1,5 +1,5 @@
 
-# Hi there from SioCraft 🚀
+# Hi there from Siocraft 🚀
 
 ## Introduction 💻
 
