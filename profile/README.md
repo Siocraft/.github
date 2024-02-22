@@ -7,11 +7,11 @@ We are a group of developers who are passionate about creating enterprise-grade 
 
 ## Contribution Guidelines 📝
 
-Get in contact with the owner of the organization [SioCraft](https://siocraft.vercel.app/es/): [@SantiagoSiordia](https://github.com/SantiagoSiordia) via [SantiagoSiordia.com](https://santiagosiordia.com/) to get involved.
+Get in contact with the owner of the organization [Siocraft](https://siocraft.vercel.app/es/): [@SantiagoSiordia](https://github.com/SantiagoSiordia) via [SantiagoSiordia.com](https://santiagosiordia.com/) to get involved.
 
 ## Useful Resources 📚
 
-- Our website: [SioCraft](https://siocraft.vercel.app/es/)
+- Our website: [Siocraft](https://siocraft.vercel.app/es/)
 - Owner: [@SantiagoSiordia](https://github.com/SantiagoSiordia)
 
 ## Fun Facts 🎉
